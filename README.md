@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+
+<p align="center">
+  <img width="460" height="300" src="https://i.pinimg.com/originals/80/fb/20/80fb20a4778ca8143bc26a8eb78492ee.gif">
+</p>
+<p align="center"> 🌱 I’m currently learning ... </p>
 
 <!--
 **Bruno4l/Bruno4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
