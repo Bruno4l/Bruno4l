@@ -28,5 +28,5 @@
   <a href="mailto:brunocastelllani@gmail.com"><img src="https://img.shields.io/badge/-brunocastelllani@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="mailto:166443@upf.br"><img src="https://img.shields.io/badge/-166443@upf.br-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/brunotcastellani"><img src="https://img.shields.io/badge/-@brunotcastellani-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://facebook.com/bruno.tibollacastellani"><img src="https://img.shields.io/badge/-@bruno.tibollacastellani-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="https://facebook.com/brunotcastellani"><img src="https://img.shields.io/badge/-@brunotcastellani-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
