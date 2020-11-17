@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python and Node.js.
 - 💡 I like to explore new technologies.
 - 🤔 I'm looking for help and ideas with what I'm learning.
-- ✍️ In my free time, I look for Programing as hobbies/side hustles.
+- ✍️ In my free time, I look for Programing as hobbies.
 
 <h2>🔬 My Stack</h2>
 
