@@ -2,8 +2,8 @@
 
 <h2>👽 About Me</h2>
 
-- 🎓 I'm currently studying Electrical Engineering at [UPF](https://www.upf.br/).
-- 🌱 I’m currently learning Python and Node.js.
+- 🎓 I'm aN Electrical/Electronic Engineer graduated at [UPF](https://www.upf.br/).
+- 🌱 I'm currently learning C++ and Project Management.
 - 💡 I like to explore new technologies.
 - 🤔 I'm looking for help and ideas with what I'm learning.
 - ✍️ In my free time, I look for Programing as hobbies.
