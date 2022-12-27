@@ -2,7 +2,7 @@
 
 <h2>👽 About Me</h2>
 
-- 🎓 I'm aN Electrical/Electronic Engineer graduated at [UPF](https://www.upf.br/).
+- 🎓 I'm an Electrical/Electronic Engineer graduated at [UPF](https://www.upf.br/).
 - 🌱 I'm currently learning C++ and Project Management.
 - 💡 I like to explore new technologies.
 - 🤔 I'm looking for help and ideas with what I'm learning.
